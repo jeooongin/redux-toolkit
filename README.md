@@ -6,10 +6,10 @@
 logIn 비동기 액션 생성
 
 ### 입력값 폼
-/Users/jeongin/vscode/next-redux-toolkit/images/README/스크린샷 2022-11-22 오후 12.56.57.png
+![](Users/jeongin/vscode/next-redux-toolkit/images/README/스크린샷%202022-11-22%20오후%2012.56.57.png.png)
 
 ### 폼 작성
-/Users/jeongin/vscode/next-redux-toolkit/images/스크린샷 2022-11-22 오후 2.56.20.png
+![](Users/jeongin/vscode/next-redux-toolkit/images/스크린샷%202022-11-22%20오후%202.56.20.png.png)
 
 ### 성공 확인
-/Users/jeongin/vscode/next-redux-toolkit/images/스크린샷 2022-11-22 오후 2.56.31.png
+![](Users/jeongin/vscode/next-redux-toolkit/images/스크린샷%202022-11-22%20오후%202.56.31.png.png)
