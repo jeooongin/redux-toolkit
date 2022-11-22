@@ -1,2 +1,3 @@
 # next-redux-toolkit
-next.js와 리덕스 툴킷을 활용한 리덕스 사용
+[Next.js, React, Redux Toolkit]간단한 로그인 기능 구현
+
