@@ -47,7 +47,7 @@ const LogInForm = () => {
           required
         />
       </div>
-      <div>
+      <div style={{ marginTop: "10px" }}>
         <Button type="primary" htmlType="submit" loading={logInLoading}>
           로그인
         </Button>
