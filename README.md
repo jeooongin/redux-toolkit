@@ -10,8 +10,8 @@ Redux Toolkit을 사용한 간단한 로그인 기능 구현
 
 # 3. 트러블 슈팅
 <details>
-  <summary>방명록 패스워드 한글 입력 시 영어로 입력되지 않고 첫 문자가 한글로 저장되는 문제 발견</summary>
+  <summary>dispatch를 사용해 액션 함수에 인자를 전달했을 경우 payload에 값이 제대로 전달되지 않는 문제</summary>
   <div>
-  
+    각각의 인자를 개별적으로 넘기지 않고 객체로 묶어 전달하면 payload에 값이 제대로 전달되는 것을 확인
   </div>
 </details>
