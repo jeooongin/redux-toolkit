@@ -7,7 +7,7 @@ Redux Toolkit을 사용한 간단한 로그인 기능 구현
 * Redux Toolkit
 * HTML
 * CSS
-* Antd
+* Ant Design
 
 # 3. 트러블 슈팅
 <details>
