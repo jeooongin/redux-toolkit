@@ -5,8 +5,9 @@ Redux Toolkit을 사용한 간단한 로그인 기능 구현
 * React
 * Next.js
 * Redux Toolkit
-* CSS
 * HTML
+* CSS
+* Antd
 
 # 3. 트러블 슈팅
 <details>
